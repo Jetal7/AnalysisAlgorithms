@@ -1,6 +1,6 @@
 # AnalysisAlgorithms
 
-understanding of the below models:- 
+understanding of the below models in python without libraries:- 
 
 1.   Association Rule Mining (Apriori Algorithm) 
 2.   Decision Tree 
